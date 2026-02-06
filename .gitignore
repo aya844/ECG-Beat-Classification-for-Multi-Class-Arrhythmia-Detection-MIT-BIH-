@@ -1,0 +1,15 @@
+# Fichiers de données prétraités
+/data/ecg_segments_preprocessed.pkl
+/MIT-BIH/*
+
+# Modèles entraînés
+/models/random_forest_model.pkl
+
+# Fichiers Jupyter checkpoints
+**/.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.pyc
+
+.idea/
